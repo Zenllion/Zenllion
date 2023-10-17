@@ -1,5 +1,5 @@
-## Hello I'm Zenllion. Program & Tecnologi!
-- 👋 Hi, I’m @Zenllion
+## Hello I'm Kur. Program & Tecnologi!
+- 👋 Hi, I’m @Kur
 - 👀 I’m interested in Securyt Cyber. Hacking. Blockchain. Informations...
 - 🌱 I’m currently learning Python...
 
